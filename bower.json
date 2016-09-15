@@ -1,0 +1,27 @@
+{
+  "name": "homecache-angular",
+  "description": "A real estate application",
+  "main": "index.js",
+  "authors": [
+    "AJ Yang",
+    "Dennis Ting",
+    "Roy Eun"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/underaj/homecache-angular",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "client/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-mocks": "^1.5.8",
+    "angular-route": "^1.5.8",
+    "bootstrap": "^3.3.7"
+  }
+}
